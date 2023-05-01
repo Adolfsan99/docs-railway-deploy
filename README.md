@@ -1,4 +1,4 @@
-¿Como hacer un deploy de back-end en Railway?
+# ¿Como hacer un deploy de back-end en Railway?
 
 1 Crear una cuenta en Railway
 
@@ -17,4 +17,8 @@ las tablas y las insersiones necesarias para que funcione
 
 8 Listo
 
-///EN CONSTRUCCION///
+<br>
+
+🚧EN CONSTRUCCION🚧
+
+<br>
